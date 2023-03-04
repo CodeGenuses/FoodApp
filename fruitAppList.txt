@@ -2,3 +2,8 @@
 1.Lion
 2.Tiger
 3.Leopard
+
+=============FRUITS LIST=================
+1. Mangos
+2.Oranges
+3.pawpaw
