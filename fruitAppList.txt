@@ -7,3 +7,8 @@
 1. Mangos
 2.Oranges
 3.pawpaw
+
+===========Jobbs List===================
+1. Aws Solution Architect
+2. DevOps engineer
+3. DevOps Professional
